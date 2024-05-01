@@ -1,0 +1,35 @@
+.Site-name{
+padding-left:40%;
+}
+.header-divider{
+    width: 1100px;
+    height: 3px;
+    margin-left: 50px;
+    padding-right: 50px;
+    background: #222;
+}
+.maths-wrap{
+    display: flex;
+    flex-direction: row;
+}
+
+.periodic-math{
+    color: #222;
+}
+
+.one-maths{
+    margin-top: 50px;
+    margin-left: 75px;
+}
+
+.double-math{
+    margin-top: 50px;
+    margin-left: 725px;
+}
+
+.maths-button-one{
+    width: 175px;
+    height: 75px;
+    border-radius: 12px;
+    background-color: #fff471;
+}
